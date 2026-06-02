@@ -323,6 +323,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[ccurtin](https://github.com/ccurtin)   |    [`postcss-responsive-font`](https://github.com/ccurtin/postcss-responsive-font)   |   28|
 |[chancancode](https://github.com/chancancode)   |    [`postcss-canadian-stylesheets`](https://github.com/chancancode/postcss-canadian-stylesheets)   |   72|
 |[Chapabu](https://github.com/Chapabu)   |    [`postcss-flexbox-unboxer`](https://github.com/Chapabu/postcss-flexbox-unboxer)   |   2|
+|[chloeburroughs](https://github.com/chloeburroughs)   |    [`postcss-custom-supports`](https://github.com/chloeburroughs/PostCSS-Custom-Supports)   |   0|
 |[chrisboakes](https://github.com/chrisboakes)   |    [`postcss-encode-background-svgs`](https://github.com/chrisboakes/postcss-encode-background-svgs)   |   9|
 |[chriseppstein](https://github.com/chriseppstein)   |    [`postcss-lang-optimizer`](https://github.com/linkedin/postcss-lang-optimizer)   |   21|
 |[ChristianMurphy](https://github.com/ChristianMurphy)   |    [`postcss-combine-duplicated-selectors`](https://github.com/ChristianMurphy/postcss-combine-duplicated-selectors)   |   73|

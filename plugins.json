@@ -5327,5 +5327,16 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-custom-supports",
+    "description": "supports custom aliases for supports queries",
+    "author": "chloeburroughs",
+    "url": "https://github.com/chloeburroughs/PostCSS-Custom-Supports",
+    "tags": [
+      "optimizations",
+      "shortcuts"
+    ],
+    "stars": 0
   }
 ]
